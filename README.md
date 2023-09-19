@@ -22,4 +22,4 @@ Please refer to the LICENSE in the repo.
 
 ## Walkthrough Video
 
-https://drive.google.com/file/d/1Z9xCeWIVx5Ib2iC4Smb0Qs1KmDHGAI7O/viewLinks to an external site.
+https://drive.google.com/file/d/14KIdknW66rp89BTS3GE0MjQ9oDo4IoeS/view?usp=drive_link
