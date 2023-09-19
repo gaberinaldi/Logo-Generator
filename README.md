@@ -1,4 +1,4 @@
-# hw-challenge-10
+# Logo Generator
 
 ## Description
 
